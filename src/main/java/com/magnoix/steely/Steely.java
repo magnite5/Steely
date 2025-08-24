@@ -1,5 +1,6 @@
 package com.magnoix.steely;
 
+import com.magnoix.steely.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -12,5 +13,6 @@ public class Steely implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModItems.registerModItems();
 	}
 }
