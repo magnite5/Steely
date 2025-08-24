@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "steely:item/steel_ingot.png"
+    "layer0": "steely:item/steel_ingot"
   }
 }

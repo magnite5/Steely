@@ -13,6 +13,6 @@ public class Steely implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-		ModItems.registerModItems();
+		ModItems.initialize();
 	}
 }
