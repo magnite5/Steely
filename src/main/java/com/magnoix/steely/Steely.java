@@ -1,5 +1,6 @@
 package com.magnoix.steely;
 
+import com.magnoix.steely.item.ModBlocks;
 import com.magnoix.steely.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -14,5 +15,6 @@ public class Steely implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.initialize();
+		ModBlocks.initialize();
 	}
 }

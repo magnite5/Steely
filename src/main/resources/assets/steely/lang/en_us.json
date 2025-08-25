@@ -1,4 +1,6 @@
 {
   "item.steely.steel_ingot": "Steel Ingot",
-  "item.steely.steel_nugget": "Steel Nugget"
+  "item.steely.steel_nugget": "Steel Nugget",
+  "block.steely.steel_block": "Block of Steel",
+  "item.steely.steel_block": "Block of Steel"
 }
